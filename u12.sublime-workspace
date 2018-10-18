@@ -1,0 +1,1286 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"us",
+				"userInput"
+			],
+			[
+				"PASSWORD",
+				"PASSWORD_DEFAULT〔constant〕"
+			],
+			[
+				"pass",
+				"password_hash〔function〕"
+			],
+			[
+				"strip",
+				"strip_tags〔function〕"
+			],
+			[
+				"exa",
+				"$example〔variable〕"
+			],
+			[
+				"sub",
+				"subExamples"
+			],
+			[
+				"pos",
+				"$position〔variable〕"
+			],
+			[
+				"openssl_pkey_get_",
+				"openssl_pkey_get_private"
+			],
+			[
+				"pub",
+				"publicKey"
+			],
+			[
+				"priva",
+				"privateKey"
+			],
+			[
+				"is",
+				"is_file"
+			],
+			[
+				"pri",
+				"privateKey"
+			],
+			[
+				"cateo",
+				"$categoryId〔variable〕"
+			],
+			[
+				"html",
+				"htmlspecialchars〔function〕"
+			],
+			[
+				"uns",
+				"unsortedCategories"
+			],
+			[
+				"content",
+				"contents"
+			],
+			[
+				"co",
+				"contents〔variable〕"
+			],
+			[
+				"categor",
+				"$categoryId〔variable〕"
+			],
+			[
+				"get",
+				"getExamples"
+			],
+			[
+				"val",
+				"$value〔variable〕"
+			],
+			[
+				"strLen",
+				"$strLen〔variable〕"
+			],
+			[
+				"strle",
+				"strlen〔function〕"
+			],
+			[
+				"su",
+				"substr"
+			],
+			[
+				"key",
+				"key〔function〕"
+			],
+			[
+				"cate",
+				"categoryId"
+			],
+			[
+				"catego",
+				"$categoryId〔variable〕"
+			],
+			[
+				"mainca",
+				"$mainCategoryId〔variable〕"
+			],
+			[
+				"subCateo",
+				"sub-category"
+			],
+			[
+				"repla",
+				"$replaceWith〔variable〕"
+			],
+			[
+				"require",
+				"require_once〔keyword〕"
+			],
+			[
+				"new",
+				"newVal"
+			],
+			[
+				"categ",
+				"$category〔variable〕"
+			],
+			[
+				"so",
+				"sortedSubCategories"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"arr",
+				"$arrayCount〔variable〕"
+			],
+			[
+				"selec",
+				"select_styles.scss"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"pre",
+				"pre\tTag"
+			],
+			[
+				"dec",
+				"decrypt"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"no",
+				"no_profile"
+			],
+			[
+				"pas",
+				"passRowName"
+			],
+			[
+				"table",
+				"tableName"
+			],
+			[
+				"up",
+				"upassRow"
+			],
+			[
+				"user",
+				"$userRowName〔variable〕"
+			],
+			[
+				"ta",
+				"tableName"
+			],
+			[
+				"FILT",
+				"FILTER_VALIDATE_EMAIL"
+			],
+			[
+				"uni",
+				"unique_filename〔variable〕"
+			],
+			[
+				"input",
+				"$input_file〔variable〕"
+			],
+			[
+				"gra",
+				"linear-gradient"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"openssl_d",
+				"openssl_digest"
+			],
+			[
+				"com",
+				"combined"
+			],
+			[
+				"or",
+				"org_h"
+			],
+			[
+				"org",
+				"org_w"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"getw",
+				"getcwd"
+			],
+			[
+				"no_",
+				"no_overwrite"
+			],
+			[
+				"retu",
+				"return_on_success"
+			],
+			[
+				"KB",
+				"KB_filesize"
+			],
+			[
+				"max",
+				"max_file_size"
+			],
+			[
+				"kb",
+				"KB_filesize"
+			],
+			[
+				"file_",
+				"file_input"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"image",
+				"image_extension"
+			],
+			[
+				"ma",
+				"max_file_size"
+			],
+			[
+				"path",
+				"pathinfo"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"Vali",
+				"Validators"
+			],
+			[
+				"mailer",
+				"mailer_preview"
+			],
+			[
+				"inpu",
+				"input-button"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"server",
+				"serverMail"
+			],
+			[
+				"preg_ma",
+				"preg_match_all"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"UP",
+				"UpassDB"
+			],
+			[
+				"recurs",
+				"RecursiveRemove"
+			],
+			[
+				"recon",
+				"ReconnectTLS"
+			],
+			[
+				"times",
+				"Timestamp"
+			],
+			[
+				"cli",
+				"ClientIP"
+			],
+			[
+				"php",
+				"Php"
+			],
+			[
+				"bg-gra",
+				"bg-gray-lightest"
+			],
+			[
+				"decora",
+				"text-decoration-line"
+			],
+			[
+				"top",
+				"TopButton"
+			],
+			[
+				"scree",
+				"ScreenSizes"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"bg-gray",
+				"bg-gray-lightest"
+			],
+			[
+				"tr",
+				"transform-style"
+			],
+			[
+				"Input",
+				"InputComponents"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"ho",
+				"HorizontalList"
+			],
+			[
+				"Thum",
+				"ThumbList"
+			],
+			[
+				"Link",
+				"LinkList"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"Other",
+				"OtherResources"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bg-gr",
+				"bg-gray-lightest"
+			],
+			[
+				"red",
+				"redborder"
+			],
+			[
+				"bg",
+				"bg-gray-lightest"
+			],
+			[
+				"list-st",
+				"list-style-position"
+			],
+			[
+				"NoS",
+				"NoSelect"
+			],
+			[
+				"Goo",
+				"GoogleFonts"
+			],
+			[
+				"colo",
+				"color-rep"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgroun-",
+				"background-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"jus",
+				"justify"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "labJuice.py",
+			"settings":
+			{
+				"buffer_size": 745,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/stick/Dropbox/www/pythonBlackhat/hostScanner.py",
+			"settings":
+			{
+				"buffer_size": 3144,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/stick/Dropbox/www/pythonBlackhat/netcatRepl.py",
+			"settings":
+			{
+				"buffer_size": 4667,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/stick/Dropbox/www/pythonBlackhat/sshServer.py",
+			"settings":
+			{
+				"buffer_size": 2135,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/stick/Dropbox/www/pythonBlackhat/tcpProxy.py",
+			"settings":
+			{
+				"buffer_size": 3762,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"disco",
+				"Discord Rich Presence: Connect to Discord"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"tr",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"html",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"encode",
+				"StringEncode: HTML Deentitize"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"inline",
+				"SublimeLinter: Disable Inline Tooltips"
+			],
+			[
+				"tooltip",
+				"SublimeLinter: Enable Inline Tooltips"
+			],
+			[
+				"om",
+				"Set Syntax: OCamlyacc"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"high",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"enti",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"error",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"linter",
+				"SublimeLinter: Don't Make Warnings Passive"
+			],
+			[
+				"indexing",
+				"Indexing Status"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"hih",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"lip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"autopre",
+				"Autoprefix CSS"
+			],
+			[
+				"hig",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"high\t",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"whitesp",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"en",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"syn",
+				"Set Syntax: PHP"
+			],
+			[
+				"docbl",
+				"Snippet: Start Docblock"
+			],
+			[
+				"syntax",
+				"Set Syntax: PHP"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"docblock",
+				"Snippet: Start Docblock"
+			],
+			[
+				"hi\t",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"nbspr",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"ht",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"synta",
+				"Set Syntax: PHP"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"white",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"li",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"htm",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"l",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"string",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"url",
+				"StringEncode: URL Encode"
+			],
+			[
+				"stringenco",
+				"StringEncode: Safe HTML Entitize"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"lipsu",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"stringencode",
+				"StringEncode: Paste Encoded..."
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 582.0
+	},
+	"console":
+	{
+		"height": 231.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/stick/Dropbox/www/labJack"
+	],
+	"file_history":
+	[
+		"/home/stick/Dropbox/www/pythonBlackhat/tcpClient.py",
+		"/home/stick/Dropbox/www/pythonBlackhat/sshReverseCmd.py",
+		"/home/stick/Dropbox/www/pythonBlackhat/sshCommand.py",
+		"/home/stick/Dropbox/www/pythonBlackhat/mailSniffer.py",
+		"/home/stick/Dropbox/www/pythonBlackhat/tcpServer.py",
+		"/home/stick/Dropbox/www/pythonBlackhat/udpClient.py",
+		"/home/stick/Dropbox/www/pythonBlackhat/sshServer.py",
+		"/home/stick/Dropbox/www/pythonBlackhat/tcpProxy.py",
+		"/home/stick/Dropbox/www/pythonBlackhat/hostScanner.py",
+		"/home/stick/Dropbox/www/pythonBlackhat/netcatRepl.py",
+		"/home/stick/Dropbox/www/pythonBlackhat/blackhatPython.sublime-workspace",
+		"/home/stick/Dropbox/www/pythonBlackhat/blackhatPython.sublime-project",
+		"/home/stick/Dropbox/www/pythonBlackhat/arpPoison.py",
+		"/home/stick/Dropbox/www/PhinitPreview/client/tarantula/index.php",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/index.php",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/resources/singleton.php",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/views/add.php",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/controllers/add.php",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/controllers/modules.php",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/controllers/index.php",
+		"/home/stick/Dropbox/www/PhinitPreview/README.md",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/views/index.php",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/views/modules.php",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/README.md",
+		"/home/stick/Dropbox/www/PhinitPreview/client/README.md",
+		"/home/stick/Dropbox/www/PhinitPreview/client/resources/meta.php",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/resources/sshConf.php",
+		"/home/stick/Dropbox/www/PhinitPreview/client/css/styles.css",
+		"/home/stick/Dropbox/www/PhinitPreview/client/controllers/index.php",
+		"/home/stick/Dropbox/www/PhinitPreview/client/models/client.php",
+		"/home/stick/Dropbox/www/PhinitPreview/client/views/index.php",
+		"/home/stick/Dropbox/www/PhinitPreview/client/resources/login.php",
+		"/home/stick/Dropbox/www/PhinitPreview/client/resources/mailer.php",
+		"/home/stick/Dropbox/www/PhinitPreview/client/resources/upload.php",
+		"/home/stick/Dropbox/www/PhinitPreview/client/resources/session.php",
+		"/home/stick/Dropbox/www/PhinitPreview/client/resources/crypt.php",
+		"/home/stick/Dropbox/www/PhinitPreview/client/models/stringHandler.php",
+		"/home/stick/Dropbox/www/PhinitPreview/client/index.php",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/resources/credentials.php",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/models/sftp.php",
+		"/home/stick/Dropbox/www/PhinitPreview/resources/singleton.php",
+		"/home/stick/Dropbox/www/PhinitPreview/resources/credentials.php",
+		"/home/stick/Dropbox/www/PhinitPreview/client/resources/credentials.php",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/models/connection2.php",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/connection2.php",
+		"/home/stick/Dropbox/www/PhinitPreview/.gitignore",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/css/styles.css",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/models/crud.php",
+		"/home/stick/Dropbox/www/PhinitPreview/cms/resources/meta.php",
+		"/home/stick/Dropbox/www/PhinitPreview/PhinitPreview.sublime-workspace",
+		"/home/stick/Dropbox/www/PhinitPreview/Phinit.sublime-workspace",
+		"/home/stick/Dropbox/www/Phinit/client/views/index.php",
+		"/home/stick/Dropbox/www/Phinit/client/css/styles.css",
+		"/home/stick/Dropbox/www/Phinit/cms/resources/credentials.php",
+		"/home/stick/Dropbox/www/Phinit/client/resources/credentials.php",
+		"/home/stick/Dropbox/www/Phinit/client/controllers/index.php",
+		"/home/stick/Dropbox/www/Phinit/cms/controllers/index.php",
+		"/home/stick/Dropbox/www/Phinit/client/models/client.php",
+		"/home/stick/Dropbox/www/Phinit/cms/models/upload.php",
+		"/home/stick/Dropbox/www/Phinit/cms/js/dynamics.js",
+		"/home/stick/Dropbox/www/Phinit/cms/views/index.php",
+		"/home/stick/Dropbox/www/Phinit/cms/css/styles.css",
+		"/home/stick/Dropbox/www/whPreview/cms/css/styles.css",
+		"/home/stick/Dropbox/www/whPreview/cms/js/dynamics.js",
+		"/home/stick/Dropbox/www/whPreview/cms/views/index.php",
+		"/home/stick/Dropbox/www/whPreview/cms/controllers/index.php",
+		"/home/stick/Dropbox/www/whPreview/cms/models/client.php",
+		"/home/stick/Dropbox/www/whPreview/cms/models/crud.php",
+		"/home/stick/Dropbox/www/whPreview/cms/resources/singleton.php",
+		"/home/stick/Dropbox/www/whPreview/cms/models/connection.php",
+		"/home/stick/Dropbox/www/whPreview/cms/resources/credentials.php",
+		"/home/stick/Dropbox/www/whPreview/client/views/index.php",
+		"/home/stick/Dropbox/www/whPreview/client/resources/credentials.php",
+		"/home/stick/Dropbox/www/whPreview/client/controllers/index.php",
+		"/home/stick/Dropbox/www/whPreview/cms/index.php",
+		"/home/stick/Dropbox/www/whPreview/client/models/connection.php",
+		"/home/stick/Dropbox/www/whPreview/client/models/crud.php",
+		"/home/stick/Dropbox/www/whPreview/client/models/stringHandler.php",
+		"/home/stick/Dropbox/www/whPreview/tester.php",
+		"/home/stick/Dropbox/www/whPreview/processForm.php",
+		"/home/stick/Dropbox/www/whPreview/client/css/styles.css",
+		"/home/stick/Dropbox/www/whPreview/cms/models/upload.php",
+		"/home/stick/Dropbox/www/whPreview/cms/resources/meta.php",
+		"/home/stick/Dropbox/www/whPreview/client/resources/meta.php",
+		"/home/stick/Dropbox/www/whPreview/client/resources/singleton.php",
+		"/home/stick/Dropbox/www/whPreview/models/stringHandler.php",
+		"/home/stick/Dropbox/www/whPreview/resources/meta.php",
+		"/home/stick/Dropbox/www/whPreview/models/crud.php",
+		"/home/stick/Dropbox/www/whPreview/views/index.php",
+		"/home/stick/Dropbox/www/whPreview/controllers/index.php",
+		"/home/stick/.config/sublime-text-3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/home/stick/.config/sublime-text-3/Packages/User/trailing_spaces.sublime-settings",
+		"/home/stick/Dropbox/www/whPreview/css/styles.css",
+		"/home/stick/Dropbox/www/whPreview/index.php",
+		"/home/stick/Dropbox/www/whPreview/models/connection.php",
+		"/home/stick/Dropbox/www/whPreview/resources/credentials.php",
+		"/home/stick/Dropbox/www/webHelpers/index.php",
+		"/home/stick/Dropbox/www/webHelpers/lowlevel/resources/singleton.php",
+		"/home/stick/Dropbox/www/webHelpers/php/client.php",
+		"/home/stick/Dropbox/www/webHelpers/php/time.php",
+		"/home/stick/Dropbox/www/webHelpers/lowlevel/resources/meta.php",
+		"/home/stick/Dropbox/www/webHelpers/stylesheets/select_styles.scss",
+		"/home/stick/Dropbox/www/webHelpers/README.md",
+		"/home/stick/Dropbox/www/webHelpers/lowlevel/resources/sessionHandler.php",
+		"/home/stick/Dropbox/www/webHelpers/lowlevel/resources/credentials.php",
+		"/home/stick/Dropbox/www/webHelpers/lowlevel/controllers/index.php",
+		"/home/stick/Dropbox/www/webHelpers/lowlevel/index.php",
+		"/home/stick/Dropbox/www/webHelpers/php/security.php",
+		"/home/stick/Dropbox/www/webHelpers/stylesheets/grids/_typicals.scss",
+		"/home/stick/Dropbox/www/webHelpers/stylesheets/all_styles.css",
+		"/home/stick/Dropbox/js hover display",
+		"/home/stick/Dropbox/overall_pz2.php",
+		"/home/stick/Dropbox/www/webHelpers/lowlevel/view/index.php",
+		"/home/stick/Dropbox/www/webHelpers/lowlevel/models/connection.php",
+		"/home/stick/Dropbox/www/webHelpers/lowlevel/models/crud.php",
+		"/home/stick/Dropbox/www/webHelpers/php/crud.php",
+		"/home/stick/Dropbox/www/webHelpers/stylesheets/components/_input-toggle.scss",
+		"/home/stick/Dropbox/www/webHelpers/php/validators.php",
+		"/home/stick/Dropbox/www/webHelpers/stylesheets/_functions.scss",
+		"/home/stick/Dropbox/www/webHelpers/controller.php",
+		"/home/stick/Dropbox/www/webHelpers/php/login.php",
+		"/home/stick/Dropbox/www/webHelpers/login_preview.php",
+		"/home/stick/Dropbox/www/webHelpers/mailer_preview.php",
+		"/home/stick/Dropbox/www/webHelpers/php/upload.php",
+		"/home/stick/Dropbox/www/webHelpers/php/base64.php",
+		"/home/stick/Dropbox/www/webHelpers/php/connection.php",
+		"/home/stick/Dropbox/www/webHelpers/php/crypt.php",
+		"/home/stick/Dropbox/www/webHelpers/php/dir.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"//",
+			"0",
+			"controller",
+			"this->contents",
+			"$key['content']",
+			"$_FILES",
+			"get",
+			"GetModules",
+			"permissions",
+			"remote",
+			"local",
+			"getErrors",
+			"break",
+			"';",
+			";"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "labJuice.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								744,
+								744
+							]
+						],
+						"settings":
+						{
+							"SL.17.region_keys":
+							[
+							],
+							"SL.22.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/stick/Dropbox/www/pythonBlackhat/hostScanner.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 867.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/stick/Dropbox/www/pythonBlackhat/netcatRepl.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3098,
+								3098
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1836.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/stick/Dropbox/www/pythonBlackhat/sshServer.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 408.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/stick/Dropbox/www/pythonBlackhat/tcpProxy.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "",
+	"project": "u12.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/www/sloa_second/sloa_second.sublime-project"
+			],
+			[
+				"blac",
+				"~/Dropbox/www/pythonBlackhat/blackhatPython.sublime-project"
+			],
+			[
+				"black",
+				"~/Dropbox/www/pythonBlackhat/blackhatPython.sublime-project"
+			],
+			[
+				"we",
+				"~/Dropbox/www/webHelpers/WebHelpers.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
