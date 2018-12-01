@@ -6,6 +6,36 @@ Controll Application for LabJack U12 Acquisition Board
 # Usage
 This application does not bring much value to be honest. It allows you to set and get the inputs & outputs (I/O) of a LabJack U12 acquisition board.
 
+### CLI
+Invoke this script with parameters to read and set the IO ports/channels. 
+```
+LabJuice - Control Application for LabJack U12 Acquisition Board
+
+Use with: labjuice.py -c=CHANNEL [-h] [-a] [-d] [-in] [-out=VOLT] [-l]
+  % Chose either the digital or the analog parameter.
+  % Chose either the input or output parameter.
+-h --help        Show this message.
+-l --loop        This is legacy functionality. ~
+                 ~ Opens, and keeps running, an application with different controls.
+-a --analog      Select the analog ports.
+-d --digital     Select the digital ports.
+-i --input       Read the input value from a channel.
+-o --output      Set the output voltage of a channel.
+-c --channel     Which channel to interact with.
+     % Digital Channels:
+     %     Channel: 0-3 for IO.
+     %     Channel: 0-7 for AI.
+     % Analog Channels:
+     %     Channel: 0-1 for AO.
+     %     Channel: 0-7 for AI.
+
+Usage examples:
+Read AI2 (analog) input: labjuice.py -a -c=2 -in
+Set 5V to AO0 (analog) output: labjuice.py -a -c=0 -out=5
+```
+
+### Loop 
+This is the legacy way of running this application - In a constant loop. It has a custom CLI. Pretty useless. 
 ```
 LabJuice - Control Application for LabJack U12 Acquisition Board
 
