@@ -3,6 +3,28 @@ Controll Application for LabJack U12 Acquisition Board
 
 &nbsp;
 
+# Usage
+This application does not bring much value to be honest. It allows you to set and get the inputs & outputs (I/O) of a LabJack U12 acquisition board.
+
+```
+LabJuice - Control Application for LabJack U12 Acquisition Board
+
+Usage:
+digital [channel] [in/out=V] -- Reads, or sets, the digital input and output.
+     Channel: 0-3 for IO
+     Channel: 0-7 for AI
+analog  [channel] [in/out=V] -- Reads, or sets, the analog  input and output.
+     Channel: 0-1 for AO
+     Channel: 0-7 for AI
+
+
+Input voltage for Analog[0]: 5.048828125
+
+$ ~> 
+```
+
+&nbsp;
+
 # Driver, library and Python module installation
 We will be installing LabJack’s function library and driver on our glorious Linux system.
 
